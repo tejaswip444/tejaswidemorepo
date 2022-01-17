@@ -1,0 +1,9 @@
+{
+	"name": "newdatafactoryforgit",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bf1af558-1075-4c17-9247-5eb47ca354c2",
+		"tenantId": "75954216-f9db-4b5b-b3a5-b2f1d1c4bd28"
+	}
+}
