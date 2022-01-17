@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "newdatafactoryforgit"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
 		}
 	}
 }
